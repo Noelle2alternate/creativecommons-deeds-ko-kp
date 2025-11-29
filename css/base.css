@@ -1,4 +1,4 @@
-@import 'https://creativecommons.org/wp-content/themes/vocabulary-theme/style.css' layer(vocabulary-theme);
+@import url("https://creativecommons.org/wp-content/themes/vocabulary-theme/style.css") layer(vocabulary-theme);
 
 /* html */
 .bidi-left main ul, .bidi-left main ol {
